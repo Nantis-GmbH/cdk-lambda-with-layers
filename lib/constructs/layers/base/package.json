@@ -1,0 +1,14 @@
+{
+  "name": "@nantis/base-layer",
+  "version": "0.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf node_modules"
+  },
+  "dependencies": {
+    "zod": "^3.20.2"
+  }
+}
